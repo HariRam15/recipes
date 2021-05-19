@@ -3,7 +3,6 @@
 A new Flutter project.
 <img src="assets/images/Screens1.png">
 
-<img src="assets/Screens2.png">
 
 <img src="assets/images/Screens2.png">
 
