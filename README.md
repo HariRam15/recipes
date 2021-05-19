@@ -1,6 +1,7 @@
 # recipes
 
 A new Flutter project.
+<img src="assets/images/Screen1.png.jpg">
 
 ## Getting Started
 
