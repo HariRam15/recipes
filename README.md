@@ -1,9 +1,8 @@
 # recipes
 
-A new Flutter project.
-<img src="assets/images/Screens1.png">
+<img src="assets/S1.jpg">
+<img src="assets/S2.jpg">
 
-<img src="assets/images/Screens.png">
 
 ## Getting Started
 
